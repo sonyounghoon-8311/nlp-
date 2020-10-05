@@ -1,0 +1,4 @@
+https://www.fun-coding.org/crawl_basic2.html  - 크롤링
+https://wikidocs.net/book/2155  - nlp
+https://ratsgo.github.io/natural%20language%20processing/2017/08/16/deepNLP/   -nlp논문
+https://www.nomadicmatt.com/  - 영어공부
