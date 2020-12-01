@@ -4,3 +4,4 @@ https://ratsgo.github.io/natural%20language%20processing/2017/08/16/deepNLP/   -
 https://www.nomadicmatt.com/  - 영어공부
 국회입법조사처 - 자료
 https://opentutorials.org/course/3987  - 데이터분석기사 준비 사이트
+https://otexts.com/fppkr/ - 예측, 회귀 통계학
