@@ -7,3 +7,4 @@ https://opentutorials.org/course/3987  - 데이터분석기사 준비 사이트
 https://otexts.com/fppkr/ - 예측, 회귀 통계학
 https://datascienceschool.net/01%20python/01.01%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0.html 데이터분석에 이용되는 수학
 gehhi - 텍스트 분석 네트워크 시각화 GOOD
+http://www.incodom.kr/Biopython#h_684416ba74066e5a4afb6ad4d9d10208 - 바이오데이터 분석 사이트
