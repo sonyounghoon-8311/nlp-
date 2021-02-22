@@ -9,3 +9,4 @@ https://datascienceschool.net/01%20python/01.01%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20
 gehhi - 텍스트 분석 네트워크 시각화 GOOD
 http://www.incodom.kr/Biopython#h_684416ba74066e5a4afb6ad4d9d10208 - 바이오데이터 분석 사이트
 https://cloud.google.com/healthcare/docs/resources/public-datasets/nih-chest?hl=ko - 흉부 x선 데이터 다운로드
+https://blog.cloudera.com/ 데이터베이스 관련 자료
